@@ -4,7 +4,7 @@ This is a fork of [lrs](https://github.com/MaiaVictor/purescript-lrs) using a 20
 
 #### Usage
 
-- [JavaScript](https://github.com/parabirb/lrs14/blob/master/EXAMPLE_JS.md)
+- [JavaScript](https://github.com/parabirb/lrs14/blob/main/EXAMPLE_JS.md)
 
 #### Disclaimer
 
