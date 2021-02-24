@@ -1,6 +1,6 @@
 #### Installing
 
-    npm install lrs
+    npm install lrs14
 
 #### Example
 
