@@ -1,6 +1,6 @@
 {
   "name": "lrs14",
-  "version": "0.0.1.4",
+  "version": "0.1.4",
   "description": "Linkable Ring Signatures on PureScript",
   "main": "index.js",
   "scripts": {
